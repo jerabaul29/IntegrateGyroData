@@ -1,5 +1,5 @@
 from __future__ import print_function
-import read_struct_from_arduino as rsfa
+import ReadStructFromArduino as rsfa
 import serial
 import Quaternions as qt
 import PygameRendering as PR
