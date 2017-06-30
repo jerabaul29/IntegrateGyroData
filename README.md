@@ -19,4 +19,4 @@ This will open a window showing the orientation of the IMU, updated in real time
 You can also have a look at the demo video (in the present repo root): video_demo.mp4
 # Note
 
-This code only performs integration of the gyro data, i.e. the orientation will drift with time. It does not implement any sort of Kalman filtering or other mean orientation calculation based on the sliding average of the gravity vector / the magnetic vector value.
+This code only performs integration of the gyro data, i.e. the orientation will drift with time. It does not implement any sort of Kalman filtering or other.
